@@ -1,0 +1,13 @@
+{
+  "name": "aide",
+  "version": "1.0.0",
+  "description": "Work your Aide customer service queue from Gemini CLI: search knowledge, look up Shopify orders, and read, reply to and update conversations.",
+  "mcpServers": {
+    "aide": {
+      "httpUrl": "https://app-api.aide.app/mcp",
+      "oauth": {
+        "enabled": true
+      }
+    }
+  }
+}

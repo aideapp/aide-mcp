@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aide",
+  "version": "1.0.0",
+  "description": "Work your Aide customer service queue from your AI agent: search knowledge, look up Shopify orders, and read, reply to and update conversations.",
+  "author": {
+    "name": "Aide Superintelligence Corporation",
+    "email": "support@aide.app",
+    "url": "https://aide.app"
+  },
+  "homepage": "https://aide.app",
+  "repository": "https://github.com/aideapp/aide-mcp",
+  "license": "MIT",
+  "keywords": ["helpdesk", "customer service", "customer support", "shopify", "mcp"]
+}

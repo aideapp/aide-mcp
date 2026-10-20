@@ -1,0 +1,22 @@
+{
+  "name": "aide",
+  "displayName": "Aide",
+  "version": "1.0.0",
+  "description": "Work your Aide customer service queue from Cursor: search knowledge, look up Shopify orders, and read, reply to and update conversations.",
+  "author": {
+    "name": "Aide Superintelligence Corporation",
+    "email": "support@aide.app"
+  },
+  "publisher": "Aide",
+  "homepage": "https://aide.app",
+  "repository": "https://github.com/aideapp/aide-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["aide", "mcp", "helpdesk", "customer-service", "customer-support", "shopify"],
+  "skills": "skills/*/SKILL.md",
+  "mcpServers": {
+    "aide": {
+      "url": "https://app-api.aide.app/mcp"
+    }
+  }
+}
