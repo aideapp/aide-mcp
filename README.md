@@ -55,7 +55,11 @@ Then run `codex mcp login aide`.
 
 ## Claude and ChatGPT
 
-Add `https://app-api.aide.app/mcp` as a custom connector and sign in with your Aide account.
+- Claude: add Aide from [Claude's connectors directory](https://claude.ai/directory/aide).
+- ChatGPT: install the [Aide plugin](https://chatgpt.com/plugins/plugin_asdk_app_6ad6bbb802e0819184a9d9975664829b)
+  from ChatGPT's plugin directory.
+
+Sign in with your Aide account when the app asks. There is no server address to type.
 
 ## Access and data
 
